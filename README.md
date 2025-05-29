@@ -16,7 +16,7 @@ The primary objective if this project was to analyze the sales performance of Bl
 - How has sales performance evolved over the years?
 - What is the impact of fat content (Low fat vs Regular) on sales?
 
-# Dashboard Interaction
+## Dashboard Interaction
 - <a href="https://github.com/animeshdwived/Blinkit-sales/blob/main/blinkit%20sales.png">Dashboard view</a>
 
 ## Process
@@ -41,3 +41,16 @@ The primary objective if this project was to analyze the sales performance of Bl
   ![blinkit sales](https://github.com/user-attachments/assets/7afe94e2-9969-4427-a79e-17268fa8fa83)
 
 ## Project Insights
+- Total Sales: $1.20M generated overall.
+- Top Performing Outlet type: "Supermarket type1" with $787.55K in Sales.
+- Top  Tier by Sales: Tier 3 outlets contributed the most ($472.13K)
+- Top Selling Categories:
+    - Fruits and Vegetables: $0.18M
+    - Snakes Food: $0.18M
+    - Household items: $0.14M
+- Customer Satisfaction: Average rating is 3.9 across all outlets.
+- Fat Content Impact:
+    - Regular items outperform Low Fat items in sales ($776.32K vs $425.36K).
+- Year-Wise Sales:
+    - Peak Sales Observed in 2018 ($205K).
+    - Consistent performance maintained post-2016.
