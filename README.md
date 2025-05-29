@@ -16,7 +16,7 @@ The primary objective if this project was to analyze the sales performance of Bl
 - How has sales performance evolved over the years?
 - What is the impact of fat content (Low fat vs Regular) on sales?
 
-# Dashboard Intraction
+# Dashboard Interaction
 - <a href="https://github.com/animeshdwived/Blinkit-sales/blob/main/blinkit%20sales.png">Dashboard view</a>
 
 # Process
@@ -36,3 +36,6 @@ The primary objective if this project was to analyze the sales performance of Bl
   - Pie/Donut charts for outlet size and fat content analysis.
   - Line chart to analyze year-wise sales trends.
   - Slicers for filtering by outlet type, location, size, and item type.
+
+  # Dashboard
+  ![blinkit sales](https://github.com/user-attachments/assets/7afe94e2-9969-4427-a79e-17268fa8fa83)
