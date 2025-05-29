@@ -15,3 +15,6 @@ The primary objective if this project was to analyze the sales performance of Bl
 - Which item categories contribute the most to sales?
 - How has sales performance evolved over the years?
 - What is the impact of fat content (Low fat vs Regular) on sales?
+
+# Dashboard Intraction
+- <a href="https://github.com/animeshdwived/Blinkit-sales/blob/main/blinkit%20sales.png">Dashboard view</a>
