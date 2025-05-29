@@ -32,3 +32,7 @@ The primary objective if this project was to analyze the sales performance of Bl
 ## Data Visualation
 - Built interactive visuals in Power BI including:
   - Card KPIs for high level metrics.
+  - Bar and Column charts for item and outlet-wise analysis.
+  - Pie/Donut charts for outlet size and fat content analysis.
+  - Line chart to analyze year-wise sales trends.
+  - Slicers for filtering by outlet type, location, size, and item type.
