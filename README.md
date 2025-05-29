@@ -23,3 +23,9 @@ The primary objective if this project was to analyze the sales performance of Bl
 ## Data Collection and Cleaning
 - Data was collected from Blinkit's internal sales record (Sample or dummy dataset)
 - Remove nulls and duplicates, format columns (like- date, currency), create custom columns like "Fat Content", "Outlet Tier", etc using Power Query in Power BI.
+
+## Data Modeling
+- Established relationships between tables: Sales, Outlet, Items.
+- Used star schema designs for better performance.
+- Created Meas using DAX for KPIs (eg. Total Sales, Avg Sales, Avg Rating).
+
