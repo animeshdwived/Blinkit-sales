@@ -18,3 +18,7 @@ The primary objective if this project was to analyze the sales performance of Bl
 
 # Dashboard Intraction
 - <a href="https://github.com/animeshdwived/Blinkit-sales/blob/main/blinkit%20sales.png">Dashboard view</a>
+
+# Process
+## Data Collection and Cleaning
+- Data was collected from Blinkit's internal sales record (Sample or dummy dataset)
