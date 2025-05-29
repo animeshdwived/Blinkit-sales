@@ -31,3 +31,4 @@ The primary objective if this project was to analyze the sales performance of Bl
 
 ## Data Visualation
 - Built interactive visuals in Power BI including:
+ - Card KPIs for high level metrics.
