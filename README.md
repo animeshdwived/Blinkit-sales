@@ -29,3 +29,5 @@ The primary objective if this project was to analyze the sales performance of Bl
 - Used star schema designs for better performance.
 - Created Meas using DAX for KPIs (eg. Total Sales, Avg Sales, Avg Rating).
 
+## Data Visualation
+- Built interactive visuals in Power BI including:
